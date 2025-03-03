@@ -1,3 +1,7 @@
+### Вариант 1
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/5X1xnpS5/photo-2025-03-03-14-45-41.jpg" alt="photo-2025-03-03-14-45-41" border="0"></a>
+### Вариант 2
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/HpHhQy1D/photo-2025-03-03-14-48-29.jpg" alt="photo-2025-03-03-14-48-29" border="0"></a>
 ### Строительство в свободных клетках
 
 1. **Ресурсные постройки**:
