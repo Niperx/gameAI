@@ -5,7 +5,7 @@
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/KpH8bX9s/image-2025-03-03-14-50-42.png" alt="image-2025-03-03-14-50-42" border="0"></a>
 
-# Идея проекта
+# Проект KvantWars
 
 Проект состоит из сайта и игры на нём.
 
